@@ -12,6 +12,10 @@ st.set_page_config(
 # Palavras-chave de classificação
 classification_keywords = [
     'CORRETIVA', 'PREVENTIVA', 'CONTENÇÃO VEGETAL', 'LAVAGEM DE MÓDULOS', 'MATERIAIS'
+    'corretiva', 'preventiva', 'contenção vegetal', 'lavagem de módulos', 'materiais'
+    'Corretiva', 'Preventiva', 'Contenção Vegetal', 'Lavagem De Módulos', 'Materiais'
+    'cOrReTiVa', 'PrEvEnTiVa', 'CoNtEnÇãO VeGeTaL', 'lAvAgEm dE MóDuLoS', 'mAtErIaIs'
+    
 ]
 
 
