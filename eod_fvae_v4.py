@@ -15,6 +15,7 @@ classification_keywords = [
     'corretiva', 'preventiva', 'contenção vegetal', 'lavagem de módulos', 'materiais'
     'Corretiva', 'Preventiva', 'Contenção Vegetal', 'Lavagem De Módulos', 'Materiais'
     'cOrReTiVa', 'PrEvEnTiVa', 'CoNtEnÇãO VeGeTaL', 'lAvAgEm dE MóDuLoS', 'mAtErIaIs'
+    'LAVAGEM DE MODULOS', 'lavagem de modulos', 'Lavagem De Modulos'
     
 ]
 
